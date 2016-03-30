@@ -14,3 +14,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 I can use it to make the changes in the files I want to change and to have better control
 of what I'm changing.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I believe branches would help me if I want to run some test or do something different
+instead of just making the code better.
