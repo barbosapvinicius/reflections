@@ -9,3 +9,8 @@ What value do you think it offers?
 It's different just in terms of placement, because it works as a meantime to 
 files in working directory to the repository. The value of this is you can plan better
 what repositories to build.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use it to make the changes in the files I want to change and to have better control
+of what I'm changing.
