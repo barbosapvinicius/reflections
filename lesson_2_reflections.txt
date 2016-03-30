@@ -30,3 +30,9 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is the merge of the branch you checked out and the branch you
 wanted to merge with. Because it's better to visualize how the main branch
 is going to be after the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+I'm not sure if there is a pro in automatic merging. It just mean the job of 2 or more
+developers didn't have intersections. If there's intersections, you have to do it manually,
+in order to know what code to keep.
