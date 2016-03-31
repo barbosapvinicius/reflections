@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I believe it's better to use it here when you want or need to share this archive with
+other people, and later on download it to the local work.
