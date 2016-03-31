@@ -8,3 +8,10 @@ Git automatically stay up-to-date with your remote repository?
 
 Maybe I would do this because we only want to commit after the changes we made
 are significant, just like the automatic commit on Git.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks and clones are very similar because both make copies of the files and 
+all history of commits, but forks should only be used in GitHub and clones can be
+used in Git, to clone from Git or GitHub. Branches is different because it's a new path after some
+commit, so it's not so similar to forks and clones.
