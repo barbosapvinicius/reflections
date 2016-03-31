@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 I believe it's better to use it here when you want or need to share this archive with
 other people, and later on download it to the local work.
+
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+
+Maybe I would do this because we only want to commit after the changes we made
+are significant, just like the automatic commit on Git.
