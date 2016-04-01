@@ -20,3 +20,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 I believe the main benefit is when comparing both commit using git diff and, if you use git fetch,
 you can compare the origin/master and master in offline mode.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate just sending the code without any version control. It would be easier but way less
+risky, because all versions of code would be lost. The only hard thing is to understand well how Git
+and GitHub works.
