@@ -15,3 +15,8 @@ Forks and clones are very similar because both make copies of the files and
 all history of commits, but forks should only be used in GitHub and clones can be
 used in Git, to clone from Git or GitHub. Branches is different because it's a new path after some
 commit, so it's not so similar to forks and clones.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+I believe the main benefit is when comparing both commit using git diff and, if you use git fetch,
+you can compare the origin/master and master in offline mode.
